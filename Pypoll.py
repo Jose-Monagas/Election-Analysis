@@ -61,7 +61,7 @@ with open(file_to_load) as election_data:
         # Determine winning vote count and candidate 
         # Determine if the votes is greater than the winning count.
         if (votes > winning_count) and (vote_percentage > winning_percentage):
-            # If true then set winning count = votes and winning_percent = vote_percentage
+            # If true then set winning count = votes and winning_percent = vote_percentage.
             winning_count = votes 
             winning_percentage = vote_percentage 
             # And, set the winning_candidate equal to the candidate's name.
