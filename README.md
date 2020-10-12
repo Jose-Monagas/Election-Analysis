@@ -14,6 +14,7 @@ The following analysis is focused on the audit of a recent local congressional e
 * The analysis of the election shows that there were a total of 369,711 votes cast.
 
 * The "image 1" holds the breakdown of the number of votes and the percentage of total votes for each county in the precint: 
+
  ![image_1](Resources/image_1.png)
 
      **Image 1**
