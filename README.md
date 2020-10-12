@@ -21,7 +21,9 @@ The following analysis is focused on the audit of a recent local congressional e
                                                
 * The county with the largest turnout was Denver with 306,055 votes, respectively.
 * The image 2 holds the breakdown of the number of votes and the percentage of the total votes
+
  ![image 2](Resources/image_2.jpg)
+ 
              **Image 2**
 * The winner of the election was Diana DeGette, who received 73.81% of the vote and 272,892 number of votes.
 
