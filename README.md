@@ -2,7 +2,7 @@
 # **Election-Analysis**
 
 ## **1. Overview of Election Audit** 
-The following analysis is focused on the audit of a recent local congressional election. We hace been given a csv dataset and we want to perform the following tasks:
+The following analysis is focused on the audit of a recent local congressional election. We have been given a csv dataset and we want to perform the following tasks:
 1.  Calulate the number of total votes cast.
 2.  Get a complete list of candidates who received votes.
 3.  Calculate the total number of votes each candidate received.
@@ -27,7 +27,7 @@ The following analysis is focused on the audit of a recent local congressional e
              **Image 2**
 * The winner of the election was Diana DeGette, who received 73.81% of the vote and 272,892 number of votes.
 
-## **Election-Audit Summary**
+## **3. Election-Audit Summary**
 
 This script has been created in order to perform an election audit in an efficient way  given a csv data file. However, some modifications might apply when used for another election. 
 1. The original csv file provided had the county name as index [2} which might need to be adjusted when getting the candidate name from each row when working with another data set. 
